@@ -213,6 +213,19 @@ These risk categories can be used to prioritize retention interventions.
 
 ---
 
+## Key Results
+
+- Logistic Regression selected as final model.
+- ROC-AUC: 0.8841
+- Accuracy: 0.8185
+- Precision: 0.8116
+- Recall: 0.7619
+- F1 Score: 0.7860
+- 336 customers scored in the test dataset.
+- Customer-level risk scores exported for retention targeting.
+
+---
+
 ## Project Outputs
 
 ### Metrics
